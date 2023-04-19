@@ -1,0 +1,8 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/ArchivoVFBetaRegular.ttf"); font-family : "Archivo"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OpenSansRegular.ttf"); font-family : "Open Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/ArchivoSemiBold.ttf"); font-family : "Archivo"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/ArchivoRomanBold.ttf"); font-family : "Archivo"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/ArchivoRomanRegular.ttf"); font-family : "Archivo"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/OpenSansBold.ttf"); font-family : "Open Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/JostRomanSemiBold.ttf"); font-family : "Jost"; font-weight : 600;  }
